@@ -1,1 +1,2 @@
 C:\Users\etec\Documents\GitHub\Colaborativo\Calculadora OO\Calculadora OO\bin\Debug\Calculadora OO.exe.config
+C:\Users\etec\Desktop\Git-hub\Colaborativo\Calculadora OO\Calculadora OO\bin\Debug\Calculadora OO.exe.config
